@@ -1,0 +1,133 @@
+body {
+			font-family: arial, sans-serif;
+			font-size: .8em;
+			min-width: 980px;
+}
+		
+li {
+			list-style-type: none; 
+			display: inline;
+			margin: 10px;	
+			float: right;
+}
+			
+#boy {
+				position: relative;
+				bottom: 1px;
+}
+				
+#girl {
+				position: relative;
+				bottom: 2px;
+}
+				
+#woman {
+				position: relative;
+				bottom: 1px;
+}
+				
+#man {
+				position: relative;
+				bottom: 8px;
+}
+
+#content {
+				margin: 0 auto;
+				clear:both;
+				width: 269px; 
+				padding-top: 112px;
+				margin-top: 20px; 
+}
+			
+#search  {
+				width: 200%;
+				position: relative;
+				right: 134.5px;
+				padding: 6px;
+				background-image: url("images/5.png");
+				background-repeat: no-repeat;
+				background-position: right;
+				border: 1px solid #cccccc;
+}
+				
+#submit {
+				margin: 20px;
+				padding: 7px;
+				background-color: #F3F3F3;
+				border: 1px solid #cccccc;
+				border-radius: 3px;
+				font-size: 11px;
+				color:  #444;
+				font-weight: bold;
+}
+				
+#submit1 {
+				margin: 20px;
+				padding: 7px;
+				position: relative;
+				bottom: 68px;
+				left: 112px;
+				background-color: #F3F3F3;
+				border: 1px solid #cccccc;
+				border-radius: 3px;
+				font-size: 11px;
+				color: #444;
+				font-weight: bold;
+}
+				
+p {
+				text-align: center;
+				position: relative;
+				bottom: 75px;
+}
+			
+#bulb {
+				position: relative;
+				top: 20px;
+				right: 10px;
+}
+			
+a {
+				text-decoration: none;
+				color: blue;
+}
+			
+#google {
+				position: relative;
+				top: 75px;
+}
+			
+#footer {
+				background-color: #F2F2F2;
+				position: absolute;
+				bottom: 0;
+				left: 0;
+				right: 0;
+				height: 40px;
+				margin: 0;
+				padding: 0;
+				min-width: 980px;
+}
+			
+#fright {
+				float: right;
+				position: relative;
+				font-size: 13px;
+				top: 2px;
+				color: #666;
+				right: 10px;
+				margin: 0;
+}
+			
+#fleft {
+				float: left;
+				position: relative;
+				left: 5px;
+				top: 2px;
+				font-size: 13px;
+				color: #666;
+				padding-left: 10px;
+				margin: 0;
+}
+			
+			
